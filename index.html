@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Golden State Getaway · SF + LA '26</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌞</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,900&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="app">
+  <aside id="sidebar">
+    <header id="masthead">
+      <div class="sun-badge">☀</div>
+      <h1>Golden State<br>Getaway</h1>
+      <p class="dates">San Francisco · Aug 6–12 &nbsp;✿&nbsp; Los Angeles · Aug 12–16</p>
+      <nav id="city-tabs">
+        <button class="city-tab active" data-city="sf">San Francisco</button>
+        <button class="city-tab" data-city="la">Los Angeles</button>
+      </nav>
+    </header>
+
+    <div id="toolbar">
+      <button id="edit-toggle" class="tool-btn" title="Toggle edit mode">✎ Edit</button>
+      <button id="extras-toggle" class="tool-btn active" title="Show/hide nearby cafes & snacks">☕ Nearby bites</button>
+      <button id="export-btn" class="tool-btn" title="Download itinerary as JSON">⤓ Export</button>
+      <button id="reset-btn" class="tool-btn danger" title="Reset to the original plan">↺ Reset</button>
+    </div>
+
+    <div id="day-list"><!-- rendered by app.js --></div>
+
+    <section id="extras-section">
+      <h2 class="extras-heading">Nearby Bites &amp; Extras</h2>
+      <p class="extras-sub">Cafes, snacks &amp; wildcards pinned near your route — not scheduled, just there when you're hungry.</p>
+      <div id="extras-list"></div>
+      <button id="add-extra-btn" class="add-btn edit-only">+ Add a nearby spot</button>
+    </section>
+
+    <footer id="credits">
+      <p>Edits save to this browser automatically. ✎ Edit to add, move or remove stops · Export to back up.</p>
+    </footer>
+  </aside>
+
+  <main id="map-wrap">
+    <div id="map"></div>
+    <div id="legend"></div>
+    <div id="pick-banner" hidden>📍 Click the map to place this stop &nbsp;<button id="pick-cancel">cancel</button></div>
+  </main>
+</div>
+
+<!-- Add / edit stop dialog -->
+<dialog id="stop-dialog">
+  <form id="stop-form" method="dialog">
+    <h3 id="dialog-title">Add a stop</h3>
+    <label>Name <input name="name" required placeholder="e.g. Tartine Bakery"></label>
+    <div class="row">
+      <label>Time <input name="time" placeholder="e.g. 12:30 PM"></label>
+      <label>Category
+        <select name="category"></select>
+      </label>
+    </div>
+    <label>Area / neighborhood <input name="area" placeholder="e.g. Mission"></label>
+    <label>Notes <textarea name="notes" rows="3" placeholder="reservations, links, who's coming…"></textarea></label>
+    <div class="row">
+      <label>Lat <input name="lat" type="number" step="any"></label>
+      <label>Lng <input name="lng" type="number" step="any"></label>
+      <button type="button" id="pick-on-map" class="tool-btn">📍 Pick on map</button>
+    </div>
+    <div class="dialog-actions">
+      <button type="button" id="dialog-cancel" class="tool-btn">Cancel</button>
+      <button type="submit" class="tool-btn primary">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
