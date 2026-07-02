@@ -1,7 +1,7 @@
 /* Golden State Getaway — default itinerary data
    Edits made in the app are saved to localStorage on top of this. */
 const TRIP_DATA = {
-  version: 3,
+  version: 4,
   cities: {
     sf: { name: "San Francisco", center: [37.7810, -122.4400], zoom: 13 },
     la: { name: "Los Angeles", center: [34.0400, -118.3500], zoom: 11 },
@@ -22,14 +22,12 @@ const TRIP_DATA = {
       ],
     },
     {
-      id: "aug7", city: "sf", dow: "Fri 8/7", title: "Ferry Building + friend lunch #1 → Castro Friday",
+      id: "aug7", city: "sf", dow: "Fri 8/7", title: "🔒 Berkeley with Amanda (morning → afternoon) → free evening",
       stops: [
-        { id: "sf-ferrybldg", name: "Ferry Building", time: "10 AM", category: "sight", area: "Embarcadero", notes: "Acme Bread, Blue Bottle, Humphry Slocombe inside.", lat: 37.7955, lng: -122.3937 },
-        { id: "sf-hogisland", name: "Hog Island Oyster Co. — LUNCH w/ Nalu + Nicole", time: "11:30 AM", category: "friends", area: "Embarcadero", notes: "No reservations — get in line 11:30 sharp. Oysters + famous grilled cheese. Backup for a bigger group: Yank Sing dim sum (reservable).", lat: 37.7957, lng: -122.3934 },
-        { id: "sf-chinatown", name: "Chinatown: Dragon Gate → Fortune Cookie Factory", time: "2 PM", category: "sight", area: "Chinatown", notes: "Golden Gate Fortune Cookie Factory, 56 Ross Alley.", lat: 37.7963, lng: -122.4076 },
-        { id: "sf-cablecar", name: "Powell–Hyde cable car ride", time: "4 PM", category: "sight", area: "Downtown", notes: "Ride end-to-end toward the Wharf. ~$9, buy in MuniMobile.", lat: 37.7846, lng: -122.4076 },
-        { id: "sf-anchor", name: "Anchor Oyster Bar — early dinner", time: "6 PM", category: "food", area: "Castro", notes: "Legendary cioppino. Tiny, no res, Thu–Sun 2–8pm — go early.", lat: 37.7597, lng: -122.4347 },
-        { id: "sf-beaux", name: "Beaux — Manimal Fridays + Castro crawl", time: "10 PM", category: "nightlife", area: "Castro", notes: "Crawl: Moby Dick → The Mix → 440 Castro, all within 3 blocks.", lat: 37.7634, lng: -122.4331 },
+        { id: "sf-berkeley-bart", name: "Meet Amanda — Downtown Berkeley BART", time: "10:30 AM", category: "friends", area: "Berkeley", notes: "Easy from the East Bay where you're staying (or ~30 min BART from SF). Meet at Downtown Berkeley station, then walk ~15–20 min to her North Berkeley neighborhood.", lat: 37.8699, lng: -122.2679, locked: true },
+        { id: "sf-cheeseboard", name: "Cheese Board Collective — lunch w/ Amanda", time: "12 PM", category: "food", area: "Berkeley", notes: "Amanda's pick: the legendary worker-owned co-op — ONE vegetarian sourdough pizza flavor per day, live jazz, peak Berkeley. A few minutes from her place. Prefer to eat by BART first? Her downtown alternatives are pinned: Butcher's Son (vegan), Imm Thai, Cholita Linda.", lat: 37.8797, lng: -122.2694 },
+        { id: "sf-amanda-apt", name: "Amanda's place + North Berkeley wander", time: "1:30 PM", category: "friends", area: "Berkeley", notes: "She wants to show you her apartment + the 'Gourmet Ghetto.' If there's time before heading back: Telegraph Ave thrifting/record shops or a stroll through the UC Berkeley campus.", lat: 37.8797, lng: -122.2690 },
+        { id: "sf-fri-evening", name: "Free evening — Castro Friday (optional)", time: "Evening", category: "nightlife", area: "Castro / East Bay", notes: "Your call after Berkeley. Energy for SF? Beaux (Manimal Fridays) + the 18th St crawl — Moby Dick, The Mix, 440. Prefer chill? Stay near where you're staying in the East Bay. (Chinatown + a Powell–Hyde cable-car ride are pinned separately — they fold easily into Wednesday if you want them.)", lat: 37.7634, lng: -122.4331 },
       ],
     },
     {
@@ -69,7 +67,7 @@ const TRIP_DATA = {
         { id: "sf-ggbridge", name: "Golden Gate Bridge — walk to mid-span", time: "9:30 AM", category: "sight", area: "Presidio", notes: "Start at the Welcome Center. August = morning fog; it usually lifts midday.", lat: 37.8078, lng: -122.4750 },
         { id: "sf-fortpoint", name: "Fort Point", time: "11 AM", category: "sight", area: "Presidio", notes: "The bridge from underneath — Hitchcock's Vertigo spot.", lat: 37.8107, lng: -122.4770 },
         { id: "sf-bakerbeach", name: "Baker Beach", time: "11:45 AM", category: "beach", area: "Presidio", notes: "The classic bridge photo. North end is the historically queer/nude end.", lat: 37.7936, lng: -122.4839 },
-        { id: "sf-souvla", name: "Souvla Marina — LUNCH w/ Amanda + Jordan Mackie", time: "12:45 PM", category: "friends", area: "Marina", notes: "Greek sandwiches + frozen yogurt, casual, group-friendly. Veg alt: Greens at Fort Mason (reserve).", lat: 37.8006, lng: -122.4400 },
+        { id: "sf-souvla", name: "Souvla Marina — LUNCH w/ Jordan, Nalu + Nicole", time: "12:45 PM", category: "friends", area: "Marina", notes: "The SF-side friends catch-up (Amanda's covered in Berkeley on Fri). Greek sandwiches + frozen yogurt, casual, easy for a group of 4. Prefer a sit-down for the group? Yank Sing dim sum or Hog Island at the Ferry Building. Veg alt: Greens at Fort Mason (reserve).", lat: 37.8006, lng: -122.4400 },
         { id: "sf-palace", name: "Palace of Fine Arts", time: "2 PM", category: "sight", area: "Marina", notes: "", lat: 37.8029, lng: -122.4484 },
         { id: "sf-crissy", name: "Crissy Field promenade", time: "2:45 PM", category: "park", area: "Presidio", notes: "Warming Hut snack shack en route.", lat: 37.8039, lng: -122.4640 },
         { id: "sf-landsend", name: "Lands End Lookout + Sutro Baths ruins", time: "4 PM", category: "sight", area: "Lands End", notes: "Cafe at the lookout. Legion of Honor nearby if you want art.", lat: 37.7799, lng: -122.5115 },
@@ -173,6 +171,13 @@ const TRIP_DATA = {
     { id: "x-cityhall", city: "sf", name: "SF City Hall", category: "landmark", area: "Civic Center", notes: "1915 Beaux-Arts dome — taller than the US Capitol's. Grand rotunda staircase inside; free to walk through on weekdays. On the way to/from Outside Lands transit.", lat: 37.7793, lng: -122.4193 },
     { id: "x-gracecathedral", city: "sf", name: "Grace Cathedral", category: "landmark", area: "Nob Hill", notes: "Neo-Gothic cathedral atop Nob Hill — gilded Ghiberti 'Gates of Paradise' doors + a stone labyrinth. Right on the Powell–Hyde cable car line.", lat: 37.7915, lng: -122.4129 },
     { id: "x-haaslilienthal", city: "sf", name: "Haas-Lilienthal House", category: "landmark", area: "Pacific Heights", notes: "Grand 1886 Queen Anne Victorian you can actually tour inside — the full painted-lady experience with period interiors. Near the Marina/Presidio day.", lat: 37.7936, lng: -122.4258 },
+    { id: "x-butchersson", city: "sf", name: "The Butcher's Son (Berkeley)", category: "food", area: "Berkeley", notes: "All-vegan deli + sandwiches, downtown Berkeley near BART. One of Amanda's alt picks.", lat: 37.8719, lng: -122.2711 },
+    { id: "x-immthai", city: "sf", name: "Imm Thai Street Food (Berkeley)", category: "food", area: "Berkeley", notes: "Popular Thai near the UC campus / downtown BART. Amanda alt pick.", lat: 37.8718, lng: -122.2691 },
+    { id: "x-cholitalinda", city: "sf", name: "Cholita Linda (Berkeley)", category: "food", area: "Berkeley", notes: "Baja-style tacos + tortas (famous fried-fish taco), downtown Berkeley. Amanda alt pick.", lat: 37.8686, lng: -122.2681 },
+    { id: "x-hogisland", city: "sf", name: "Hog Island Oyster Co.", category: "food", area: "Embarcadero", notes: "Ferry Building oysters + grilled cheese — a great friend lunch if you add one. No res, line up ~11:30.", lat: 37.7957, lng: -122.3934 },
+    { id: "x-anchor", city: "sf", name: "Anchor Oyster Bar", category: "food", area: "Castro", notes: "Tiny Castro counter, legendary cioppino. Thu–Sun 2–8pm, no res — go early. Great for any Castro evening.", lat: 37.7597, lng: -122.4347 },
+    { id: "x-chinatown", city: "sf", name: "Chinatown — Dragon Gate + Fortune Cookie Factory", category: "sight", area: "Chinatown", notes: "Golden Gate Fortune Cookie Factory (Ross Alley). Adjacent to North Beach — easy to fold into Wednesday.", lat: 37.7963, lng: -122.4076 },
+    { id: "x-cablecar", city: "sf", name: "Powell–Hyde cable car", category: "sight", area: "Downtown", notes: "Ride end-to-end toward the Wharf (~$9, MuniMobile). Pairs with the Wednesday Wharf morning.", lat: 37.7846, lng: -122.4076 },
 
     /* LA */
     { id: "x-canters", city: "la", name: "Canter's Deli", category: "food", area: "Fairfax", notes: "Pastrami + black-and-white cookie since 1931. Sat 24 hrs.", lat: 34.0790, lng: -118.3614 },

@@ -36,11 +36,13 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 - Dinner: **La Taqueria** (the famous rice-less burrito, "dorado" style — closed Mon/Tue so tonight's the slot) or **El Farolito** if it's late
 - Night, keep it easy: **Twin Peaks Tavern** (the landmark 1972 "windows on the world" bar) → **Hi Tops** if you want food with it. If you've got energy: Thursday is **Jolene's** first night of the week + **Powerhouse** underwear night (SoMa)
 
-## Fri Aug 7 — Downtown, Ferry Building + friend lunch #1
-- **Ferry Building** morning: Acme Bread, Blue Bottle, Humphry Slocombe
-- **12pm — LUNCH WITH FRIENDS (Nalu + Nicole?)** at **Hog Island Oyster Co.** (get in line 11:30 sharp — no reservations, oysters + famous grilled cheese) — backup: **Yank Sing** cart dim sum (reservable on OpenTable, better for lingering)
-- Afternoon: Chinatown — Dragon Gate, **Golden Gate Fortune Cookie Factory** (Ross Alley) → ride the **Powell–Hyde cable car** end to end
-- Evening: Castro goes big on Fridays — **Beaux** (Manimal Fridays) + bar crawl: Moby Dick, The Mix, 440. Dinner nearby: **Anchor Oyster Bar** cioppino (tiny, no res, Thu–Sun 2–8pm — go early) or Mission tacos
+## Fri Aug 7 — 🔒 Berkeley with Amanda (morning → afternoon)
+*Blocked for Amanda. Conveniently in the East Bay where you're staying — no need to cross to SF until (or unless) the evening.*
+- **~10:30am — meet Amanda at Downtown Berkeley BART**, then walk ~15–20 min to her North Berkeley neighborhood (or ~30 min BART if you start from SF)
+- **Lunch: Cheese Board Collective** — Amanda's pick, and a perfect one: the worker-owned co-op that makes **one** vegetarian sourdough pizza flavor per day, live jazz, peak Berkeley, a few minutes from her place. Her downtown-BART alternatives if you'd rather eat first: **The Butcher's Son** (vegan), **Imm Thai**, **Cholita Linda** (all pinned)
+- **Amanda's apartment + neighborhood** — she wants to show you around the "Gourmet Ghetto." Time to spare before heading back? **Telegraph Ave** thrifting/record shops or a wander through the **UC Berkeley** campus
+- **Evening is free** — your call after a full Berkeley day. Energy for SF? **Castro Friday** goes big: **Beaux** (Manimal Fridays) + the 18th St crawl (Moby Dick, The Mix, 440). Prefer chill? Stay in the East Bay
+- *Displaced from this day but still pinned for another slot: Chinatown + the Powell–Hyde cable car fold neatly into Wednesday; Hog Island & Anchor Oyster Bar are pinned for any open meal*
 
 ## Sat Aug 8 — 🔒 Brunch with host's mom → 🏛 Painted Ladies → Haight thrift crawl
 - **Morning: BRUNCH WITH YOUR FRIEND'S MOM (locked in)**
@@ -67,7 +69,7 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 ## Tue Aug 11 — Golden Gate Bridge, Presidio + Lands End + friend lunch #2
 - Morning: **Golden Gate Bridge** — walk to mid-span from the Welcome Center; **Fort Point** underneath for the Vertigo angle (afternoons are clearer, but crowds are worse — coin flip)
 - **Baker Beach** — the classic bridge photo (north end is the historically queer/nude end)
-- **12:30pm — LUNCH WITH FRIENDS (Amanda + Jordan Mackie?)** at **Souvla** in the Marina (Greek sandwiches + frozen yogurt, casual, easy for a group) — or swap in Greens at Fort Mason for vegetarian-with-a-view
+- **12:45pm — LUNCH WITH THE SF FRIENDS (Jordan Mackie, Nalu + Nicole)** at **Souvla** in the Marina (Greek sandwiches + frozen yogurt, casual, easy for a group of 4) — sit-down alt for the group: **Yank Sing** dim sum or **Hog Island**; or **Greens** at Fort Mason for vegetarian-with-a-view. *(Amanda's covered Friday in Berkeley.)*
 - Afternoon: **Palace of Fine Arts** → Crissy Field promenade → **Lands End Lookout + Sutro Baths ruins** (cafe on site), Legion of Honor if you want art
 - Evening: **Golden Gate Park east end** museums if you skipped Saturday (de Young's free observation tower, Japanese Tea Garden) — or rest up; tomorrow is a marathon
 - Dinner: **Tony's Pizza Napoletana** in North Beach (world-champion Margherita, limited daily; put your name in and have a negroni in Washington Square) — cheap alternative: **Golden Boy** focaccia squares
@@ -123,8 +125,9 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 
 ---
 
-## Friend-lunch flexibility (SF)
-Two slots are held: **Fri Aug 7 (Hog Island)** and **Tue Aug 11 (Souvla)**. Pairings are placeholders — swap freely. If all four of Nalu, Nicole, Amanda + Jordan Mackie want one big lunch instead, **Yank Sing** (dim sum carts, reservable, closed Mon) is the best group-of-5 room. Extra fallback slots: Sat dinner before Zuni, or Wed early lunch in North Beach.
+## Friend plans (SF)
+- **Amanda — Fri Aug 7, Berkeley (locked):** Cheese Board + her neighborhood, morning→afternoon.
+- **Jordan Mackie, Nalu + Nicole — Tue Aug 11 lunch (Souvla):** the SF-side catch-up. Pairing is flexible — if they'd rather split up or you want more time with each, extra open slots are Wed early lunch in North Beach, Sat before Zuni, or a Fri SF evening if you come back from Berkeley with energy. For one big group meal, **Yank Sing** (dim sum carts, reservable, closed Mon) is the best room.
 
 ## 🏛 Architecture & landmarks (all pinned on the map)
 Woven into the days above: **Painted Ladies** (Sat), **Transamerica Pyramid** (Wed), **Bradbury Building + Walt Disney Concert Hall** (Thu). Also already on the route: the **Ferry Building**, **Palace of Fine Arts**, **Coit Tower**, **Castro Theatre**. Optional landmark pins (🏛 on the map) to grab if you have a gap:
