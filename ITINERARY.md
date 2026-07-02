@@ -4,21 +4,27 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 
 ## ⚡ Book-now checklist (in priority order)
 
-1. **Alcatraz Night Tour, Wed Aug 12** — alcatrazcitycruises.com (~$60, Pier 33). Book the **5:55pm boat** (back ~8:45pm → buffer for your night flight). Sells out weeks ahead. Only buy from the official site.
-2. **Outside Lands Sunday ticket** — GA is sold out; join the waitlist at outsidelands.frontgatetickets.com + watch official resale. RÜFÜS DU SOL headlines Sunday.
-3. **House of Prime Rib, Mon Aug 10 dinner** — books 3–4+ weeks out. Reserve now.
-4. **Gjelina, Fri Aug 14, party of 6, ~7:30pm** — window opens ~4–6 weeks out (mid-July). Book via gjelina.com; call (310) 450-1429 if online caps below 6.
-5. **Guelaguetza, Thu Aug 13, party of 6** — easy OpenTable reservation, do it now.
-6. **Muir Woods, Mon Aug 10** — reservation REQUIRED (parking $10 or shuttle $4 + $15/person entry) at gomuirwoods.com. ⚠️ The weekday car-free shuttle from Sausalito may end "early August" — call ACE Parking 800-410-2419. Fallback: guided tour (~$75–95, Extranomical/Gray Line) or 1-day rental car.
-7. **Surf lesson, Fri Aug 14 morning** — Learn to Surf LA private group booking (caps classes at 5; private-group format fits 6). ~$65–100/pp, wetsuit included. Book 1–2 weeks out.
-8. **Zuni Café, Sat Aug 8 dinner** — Resy/phone, a few weeks out.
-9. Optional: Castro Theatre or Oasis Arts show tickets for a weeknight.
+1. **Catalina Express, Sat Aug 15 — BOOK NOW** (you said you'd grab tickets): 3 adult round-trips ~$99 each (~$297 total) from **Long Beach** (faster than San Pedro + earliest 6am boat), catalinaexpress.com. August Saturdays sell out — lock the **6am out + ~5pm return**. If you want the zip line too (~$92/pp), reserve at visitcatalinaisland.com now.
+2. **Alcatraz Night Tour, Wed Aug 12** — alcatrazcitycruises.com (~$60, Pier 33). Book the **earliest 5:55pm boat** (back ~8:45pm — you need time to cross to Oakland for bags before the OAK flight). Sells out weeks ahead. Official site only.
+3. **Outside Lands Sunday ticket** — GA is sold out; join the waitlist at outsidelands.frontgatetickets.com + watch official resale. RÜFÜS DU SOL headlines Sunday.
+4. **House of Prime Rib, Mon Aug 10 dinner** — books 3–4+ weeks out. Reserve now.
+5. **Great White, Fri Aug 14, party of 6, ~7:30pm** (Venice) — the new group-of-6 dinner. Resy, ~2–3 weeks out (6 is the online max). Runner-up: Scopa Italian Roots.
+6. **Guelaguetza, Thu Aug 13, party of 6** — easy OpenTable reservation, do it now.
+7. **Gjelina, Sat Aug 15, party of 3** (you + Riley + Sydney) — much easier now it's a 3-top: gjelina.com (SevenRooms) or Resy, ~2 weeks out for 8–8:30pm.
+8. **Muir Woods, Mon Aug 10** — reservation REQUIRED (parking $10 or shuttle $4 + $15/person entry) at gomuirwoods.com. ⚠️ The weekday car-free shuttle from Sausalito may end "early August" — call ACE Parking 800-410-2419. Fallback: guided tour (~$75–95, Extranomical/Gray Line) or 1-day rental car.
+9. **Surf lesson, Fri Aug 14 morning** — Learn to Surf LA private group booking (caps classes at 5; private-group format fits 6). ~$65–100/pp, wetsuit included. Book 1–2 weeks out.
+10. **Zuni Café, Sat Aug 8 dinner** — Resy/phone, a few weeks out.
+11. Optional: Castro Theatre or Oasis Arts show tickets for a weeknight.
 
 **August SF packing note:** 55–58° mornings/nights, fog ("Karl") rolls in 4–6pm. Outside Lands evenings + Alcatraz at night are the two coldest spots you'll be — bring a real jacket and a beanie. LA water is ~68° in August; surf schools provide wetsuits.
 
 ---
 
 # SAN FRANCISCO · Thu Aug 6 – Wed Aug 12
+
+> **Traveling with Sydney (Fri night → Wed).** From Friday evening through the Wednesday Alcatraz night, assume Sydney is with you — but nothing here *requires* her. Every stop works solo or with the friends you're meeting (Nalu, Nicole, Amanda, Jordan). The only thing to double-check if she bails: Alcatraz and any dinner reservations are booked under your name, and the Wednesday Oakland/OAK logistics are the same either way.
+>
+> **You're based in the East Bay** (staying with a friend) and **flying home out of Oakland (OAK), not SFO.** SF days are easy via BART + Muni; the only logistics that change are Wednesday night (below).
 
 ## Thu Aug 6 — Fly in → Castro + Mission warm-up
 *Flexible by arrival time; everything here is walkable from the Castro.*
@@ -65,15 +71,16 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 - Evening: **Golden Gate Park east end** museums if you skipped Saturday (de Young's free observation tower, Japanese Tea Garden) — or rest up; tomorrow is a marathon
 - Dinner: **Tony's Pizza Napoletana** in North Beach (world-champion Margherita, limited daily; put your name in and have a negroni in Washington Square) — cheap alternative: **Golden Boy** focaccia squares
 
-## Wed Aug 12 — North Beach + Wharf → 🔒 ALCATRAZ NIGHT TOUR → night flight to LA
-*The whole day is staged within a 15-minute walk of Pier 33. Leave bags at your friend's — you'll grab them (or have them in a locker/car) before heading to SFO.*
+## Wed Aug 12 — North Beach + Wharf → 🔒 ALCATRAZ NIGHT TOUR → Oakland bags → OAK flight
+*The whole day is staged within a 15-minute walk of Pier 33. After Alcatraz you'll cross back to the East Bay for your luggage, then fly out of **Oakland (OAK)**. That crossing is why you want the **earliest 5:55pm boat**, not a later one.*
 
 - ~10am: **Liguria Bakery** focaccia (cash only, sells out by noon) + **Caffe Trieste** espresso (where Coppola wrote The Godfather) + **Molinari** deli sandwich for later; City Lights Bookstore + Vesuvio next door
 - Climb the **Filbert Steps to Coit Tower**, come down to the Embarcadero
 - Wharf hits, fast: **Pier 39 sea lions**, **Musée Mécanique** (free antique arcade), **Ghirardelli** sundae, the original Irish coffee at **Buena Vista Cafe**
 - Early bite: **Boudin** chowder bread bowl or that Molinari sandwich
 - **5:25pm: be at Pier 33** → **5:55pm Alcatraz Night Tour** (2.5–3 hrs, docent programs the day tours don't get; COLD — jacket). Back **~8:45pm**
-- → SFO for the night flight to LA. Rideshare Pier 33→SFO ≈ 30–40 min
+- **~9:15pm: back to Oakland for bags.** Embarcadero BART is a ~12-min walk from Pier 33 → East Bay in ~25–35 min (or rideshare). Grab your luggage from where you're staying.
+- **→ Oakland Int'l (OAK)** for the night flight to LAX — 20–30 min from the East Bay. Rental car at LAX on arrival.
 
 ---
 
@@ -87,29 +94,30 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 - **7:30pm — GROUP DINNER #1 with Hailey, Steven, Ana, Riley + Sydney: Guelaguetza** (Koreatown — conveniently between the Grove and DTLA). James Beard–winning Oaxacan: mole flights, 150+ mezcals, live mariachi. ~$25–40/pp. Reserve on OpenTable now
   - Backup/alternate vibe: **Hae Jang Chon** AYCE Korean BBQ ($44/pp, grill-it-yourself chaos)
 
-## Fri Aug 14 — All-westside beach day: surf → Sugarfish → Venice → Gjelina
+## Fri Aug 14 — All-westside beach day: surf → Sugarfish → Venice → Great White (group of 6)
 *Deliberately zero cross-town driving on the worst traffic day of the week.*
 
 - **8–10am: SURF LESSON, Santa Monica** — Learn to Surf LA at Tower 18 (behind Shutters); private-group format fits all 6 if friends are in. Morning = cleanest waves. Wetsuits included
 - Beach hang after → walk 2 blocks to **Sugarfish Santa Monica at 11:30am opening** (no reservations ever; lunch Trust Me $32 / Nozawa $40 — arriving at opening beats the line, and lunch pricing beats dinner). Friends welcome — expect tables of 2–4, split up, compare notes
 - Afternoon: **Venice** — boardwalk + skatepark + Muscle Beach, then **Abbot Kinney** shopping (vintage/consignment shops dot the strip), **Gjusta** (Gjelina Group's bakery-deli — baklava croissant) or **Gjelina Take Away** for a snack
-- **7:30pm — GROUP DINNER #2: Gjelina** (Abbot Kinney), party of 6 — wood-fired pizzas, ~$60–90/pp. **Book mid-July when the window opens**
+- **7:30pm — GROUP DINNER with all 6 (Hailey, Steven, Ana, Riley + Sydney): Great White** (Venice) — Australian-Cali, buzzy and photogenic, right by the Venice sign so it's an easy roll from Abbot Kinney. ~$45–65/pp. **Reserve on Resy ~2–3 weeks out** (6 is the online max; call for more). Runner-up if you want louder bar/cocktail energy: **Scopa Italian Roots**.
 - Optional nightcap: Venice/Abbot Kinney bars, walking distance
 
-## Sat Aug 15 — 🚗 Ojai day trip with Sydney + Riley → El Matador sunset
-*Ojai over Catalina: inside the 2-hr cap with zero ferry risk, and it complements your beach days. (If the group wakes up wanting ocean adventure instead: Catalina Express from Long Beach, $99 RT, 1-hr crossing — but book the ferry immediately; August Saturdays sell out.)*
+## Sat Aug 15 — 🚢 Catalina Island day trip (you + Riley + Sydney) → Gjelina trio dinner
+*Switched to Catalina per your call — book the ferry now. It's a full, early day; the trio caps it with the smaller Gjelina dinner you moved off Friday.*
 
-- Leave by **8:30am** to beat 101 traffic (~1.5 hrs)
-- **Bart's Books** — the famous outdoor bookstore
-- Downtown Ojai: the arcade on Ojai Ave, Libbey Park, lunch on the strip
-- Pick one: **Ojai Olive Oil Co.** tasting (free) / spa hour at Ojai Valley Inn / **Meditation Mount** (needs an online reservation now)
-- Note: inland Ojai hits the 90s°F in August — mornings downtown, shade after 1pm
-- **Drive back via the coast** and stop at **El Matador State Beach** (Malibu) ~5pm — sea stacks, caves, THE golden-hour beach. Tiny $8 lot; by late afternoon it turns over. Sunset ~7:45pm
-- Casual dinner on the way home — no reservation, whatever the car votes (In-N-Out is legally required at least once)
+- **~4:45am: leave the Westside for Long Beach** → **6:00am Catalina Express** (Long Beach beats San Pedro: faster 1-hr crossing + the earliest boat = max island time). ~$99/pp round trip; parking ~$27/day. **Book now — August Saturdays sell out.**
+- **~7:15am Avalon.** Rent a **golf cart** early (~$65–90/hr, before the lines) for the self-guided Skyline Drive tour → **snorkel Lover's Cove** (protected preserve, clearest fish; gear ~$15–25 from Wet Spot by the terminal). No car needed on the island.
+- **Lunch on the harbor: Bluewater Grill** (best on-the-water deck — reserve for a deck table) or **The Lobster Trap** (walk-in local favorite)
+- **Afternoon, pick one:** glass-bottom boat over Lover's Cove (~$32–49, easy same-day) **or** the **Zip Line Eco Tour** (~$92/pp — reserve now at visitcatalinaisland.com). Free option: Hermit Gulch hike permit
+- **~5pm ferry back** → Long Beach ~6pm → Venice ~7pm
+- **8pm — Gjelina (you + Riley + Sydney)** — a 3-top is a much easier booking than a 6; Resy/SevenRooms ~2 weeks out. Wood-fired pizzas + veg plates, ~$60–90/pp
+- **Low-stress alternative:** if Catalina runs long, skip tonight's Gjelina and do **Gjelina weekend brunch Sunday (9am–2:30pm)** with Riley + Sydney before you fly
 
 ## Sun Aug 16 — Slow Venice morning → fly home
-- **Gjusta** breakfast (or **Eggslut Venice**, open 8am–2pm, 5 min away)
+- **Gjusta** breakfast (or **Eggslut Venice**, 8am–2pm, 5 min away) — *or* the Gjelina brunch fallback above with Riley + Sydney
 - Last beach walk, pack, LAX
+- Bonus beach if you have a spare afternoon anywhere in LA: **El Matador (Malibu)** is the prettiest in the county — it's pinned on the map as an optional
 
 ---
 
