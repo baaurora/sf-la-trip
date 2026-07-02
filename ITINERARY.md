@@ -42,8 +42,9 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 - Afternoon: Chinatown — Dragon Gate, **Golden Gate Fortune Cookie Factory** (Ross Alley) → ride the **Powell–Hyde cable car** end to end
 - Evening: Castro goes big on Fridays — **Beaux** (Manimal Fridays) + bar crawl: Moby Dick, The Mix, 440. Dinner nearby: **Anchor Oyster Bar** cioppino (tiny, no res, Thu–Sun 2–8pm — go early) or Mission tacos
 
-## Sat Aug 8 — 🔒 Brunch with host's mom → Haight thrift crawl
+## Sat Aug 8 — 🔒 Brunch with host's mom → 🏛 Painted Ladies → Haight thrift crawl
 - **Morning: BRUNCH WITH YOUR FRIEND'S MOM (locked in)**
+- **~12:30pm — 🏛 PAINTED LADIES at Alamo Square** — the "Postcard Row" Victorians (710–720 Steiner St) with the downtown skyline behind them, the classic *Full House* shot. It sits right between the Castro and the Haight, so it's a perfect picnic + photo stop on the way to the thrift crawl (~10 min from Haight)
 - Afternoon: **Haight-Ashbury thrift crawl** — all on ~4 blocks, and Saturday is the only weekend day **Decades of Fashion** (museum-grade 1900s–80s vintage) is guaranteed open:
   **Wasteland** (the big one) → **Decades of Fashion** → **Relic Vintage** (curated 20s–60s) → **Buffalo Exchange** → **Held Over** (cheap 60s/70s + denim) → **Amoeba Music** (colossal record store)
   - Snack stops: **Coffee to the People**, post-thrift martini at **Aub Zam Zam** (1941 Persian-muraled den, opens ~3pm)
@@ -75,7 +76,7 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 *The whole day is staged within a 15-minute walk of Pier 33. After Alcatraz you'll cross back to the East Bay for your luggage, then fly out of **Oakland (OAK)**. That crossing is why you want the **earliest 5:55pm boat**, not a later one.*
 
 - ~10am: **Liguria Bakery** focaccia (cash only, sells out by noon) + **Caffe Trieste** espresso (where Coppola wrote The Godfather) + **Molinari** deli sandwich for later; City Lights Bookstore + Vesuvio next door
-- Climb the **Filbert Steps to Coit Tower**, come down to the Embarcadero
+- Climb the **Filbert Steps to Coit Tower**, come down to the Embarcadero — and the **🏛 Transamerica Pyramid** (1972, SF's signature spire) is right here where North Beach meets the Financial District; the redwood grove + plaza at its base are open to the public, steps from City Lights
 - Wharf hits, fast: **Pier 39 sea lions**, **Musée Mécanique** (free antique arcade), **Ghirardelli** sundae, the original Irish coffee at **Buena Vista Cafe**
 - Early bite: **Boudin** chowder bread bowl or that Molinari sandwich
 - **5:25pm: be at Pier 33** → **5:55pm Alcatraz Night Tour** (2.5–3 hrs, docent programs the day tours don't get; COLD — jacket). Back **~8:45pm**
@@ -90,6 +91,7 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 
 ## Thu Aug 13 — DTLA → The Grove → group dinner #1 (cheap + fun)
 - **Eggslut, Grand Central Market** — it closes at **2pm**, it's a breakfast, not a lunch. Order the Slut + the Fairfax. Wander GCM (G&B/Go Get Em Tiger for the iced almond-macadamia latte)
+- **🏛 Architecture cluster, all a short walk from GCM:** the **Bradbury Building** (1893, that jaw-dropping sunlit wrought-iron atrium from *Blade Runner*) is directly across Broadway — lobby's free. Then **Walt Disney Concert Hall** (Gehry's rippling steel) with **The Broad** museum next door, and **Union Station** (1939 rail cathedral) a few blocks northeast
 - Midday: **The Grove** + the adjacent **Original Farmers Market (1934)** — Du-par's pancakes, Bob's Coffee & Doughnuts, 100+ stalls. Parking: first 2 hrs free w/ validation. **Canter's Deli** is 2 blocks up Fairfax for a pastrami/black-and-white-cookie snack
 - **7:30pm — GROUP DINNER #1 with Hailey, Steven, Ana, Riley + Sydney: Guelaguetza** (Koreatown — conveniently between the Grove and DTLA). James Beard–winning Oaxacan: mole flights, 150+ mezcals, live mariachi. ~$25–40/pp. Reserve on OpenTable now
   - Backup/alternate vibe: **Hae Jang Chon** AYCE Korean BBQ ($44/pp, grill-it-yourself chaos)
@@ -123,6 +125,11 @@ Every day is built around ONE area so you're never criss-crossing the city. Veri
 
 ## Friend-lunch flexibility (SF)
 Two slots are held: **Fri Aug 7 (Hog Island)** and **Tue Aug 11 (Souvla)**. Pairings are placeholders — swap freely. If all four of Nalu, Nicole, Amanda + Jordan Mackie want one big lunch instead, **Yank Sing** (dim sum carts, reservable, closed Mon) is the best group-of-5 room. Extra fallback slots: Sat dinner before Zuni, or Wed early lunch in North Beach.
+
+## 🏛 Architecture & landmarks (all pinned on the map)
+Woven into the days above: **Painted Ladies** (Sat), **Transamerica Pyramid** (Wed), **Bradbury Building + Walt Disney Concert Hall** (Thu). Also already on the route: the **Ferry Building**, **Palace of Fine Arts**, **Coit Tower**, **Castro Theatre**. Optional landmark pins (🏛 on the map) to grab if you have a gap:
+- **SF** — **City Hall** (1915 Beaux-Arts dome, free weekday walk-through, near OSL transit) · **Grace Cathedral** (Nob Hill, on the cable-car line) · **Haas-Lilienthal House** (an 1886 Victorian you can tour *inside* — the deluxe painted-lady experience, near the Marina day)
+- **LA** — **The Broad** & **Union Station** (both by the Thu DTLA cluster) · **The Getty Center** (Meier's travertine hilltop, FREE — a westside half-day) · **Griffith Observatory** (1935 Art Deco, best skyline + Hollywood Sign view at sunset)
 
 ## Couldn't fit / honorable mentions
 - **Swan Oyster Depot** (cash-only 18-stool counter, Mon–Sat 8am–2:30pm, 1–2 hr line) — if you want it, sacrifice Tue or Wed morning and arrive by 10:30am

@@ -6,6 +6,7 @@
     food:      { label: "Food & restaurants", color: "#bf4b12", emoji: "🍽" },
     cafe:      { label: "Cafes & snacks",     color: "#dfa22e", emoji: "☕" },
     sight:     { label: "Sights & tourist",   color: "#4e7d76", emoji: "📷" },
+    landmark:  { label: "Architecture & landmarks", color: "#3f5c78", emoji: "🏛" },
     park:      { label: "Parks & outdoors",   color: "#7d8a4e", emoji: "🌲" },
     thrift:    { label: "Thrifting",          color: "#c96b8c", emoji: "🛍" },
     nightlife: { label: "Nightlife & gay SF/LA", color: "#8c5fa8", emoji: "🪩" },
@@ -15,6 +16,7 @@
   };
 
   /* ---------- state ---------- */
+  let dirty = false; // has the user actually edited the itinerary?
   let data = load();
   let currentCity = "sf";
   let editing = false;
@@ -22,14 +24,25 @@
   let selectedStopEl = null;
   let pickResolve = null; // map-pick promise resolver
 
+  // Load rule: keep the user's copy if they've edited it. If they haven't touched
+  // it, adopt a newer base itinerary automatically when TRIP_DATA.version bumps —
+  // so pushed updates reach returning visitors without wiping personal edits.
   function load() {
     try {
-      const saved = localStorage.getItem(STORAGE_KEY);
-      if (saved) return JSON.parse(saved);
+      const saved = JSON.parse(localStorage.getItem(STORAGE_KEY));
+      if (saved && saved.data) {
+        if (saved.dirty || saved.version === TRIP_DATA.version) {
+          dirty = !!saved.dirty;
+          return saved.data;
+        }
+      }
     } catch (e) { /* fall through to defaults */ }
     return JSON.parse(JSON.stringify(TRIP_DATA));
   }
-  function save() { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); }
+  function save() {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify({ version: TRIP_DATA.version, dirty, data }));
+  }
+  function markDirty() { dirty = true; }
   function uid() { return "s" + Math.random().toString(36).slice(2, 9); }
 
   /* ---------- map ---------- */
@@ -167,7 +180,7 @@
     edit.addEventListener("click", (e) => { e.stopPropagation(); openDialog({ dayId: day.id, stop }); });
     del.addEventListener("click", (e) => {
       e.stopPropagation();
-      if (confirm(`Remove "${stop.name}"?`)) { day.stops.splice(index, 1); render(); }
+      if (confirm(`Remove "${stop.name}"?`)) { day.stops.splice(index, 1); markDirty(); render(); }
     });
     el.appendChild(controls);
 
@@ -203,7 +216,7 @@
         edit.addEventListener("click", (e) => { e.stopPropagation(); openDialog({ extra: x }); });
         del.addEventListener("click", (e) => {
           e.stopPropagation();
-          if (confirm(`Remove "${x.name}"?`)) { data.extras.splice(idx, 1); render(); }
+          if (confirm(`Remove "${x.name}"?`)) { data.extras.splice(idx, 1); markDirty(); render(); }
         });
         el.appendChild(controls);
         el.addEventListener("click", () => highlightStop(x.id, true));
@@ -238,6 +251,7 @@
     const j = index + delta;
     if (j < 0 || j >= day.stops.length) return;
     [day.stops[index], day.stops[j]] = [day.stops[j], day.stops[index]];
+    markDirty();
     render();
   }
 
@@ -290,6 +304,7 @@
       const day = data.days.find((d) => d.id === dialogCtx.dayId);
       day.stops.push({ id: uid(), ...vals });
     }
+    markDirty();
     render();
   });
 
@@ -350,6 +365,7 @@
     if (confirm("Reset everything back to the original itinerary? Your edits will be lost.")) {
       localStorage.removeItem(STORAGE_KEY);
       data = JSON.parse(JSON.stringify(TRIP_DATA));
+      dirty = false;
       render();
     }
   });

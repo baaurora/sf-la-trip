@@ -1,6 +1,7 @@
 /* Golden State Getaway — default itinerary data
    Edits made in the app are saved to localStorage on top of this. */
 const TRIP_DATA = {
+  version: 3,
   cities: {
     sf: { name: "San Francisco", center: [37.7810, -122.4400], zoom: 13 },
     la: { name: "Los Angeles", center: [34.0400, -118.3500], zoom: 11 },
@@ -35,6 +36,7 @@ const TRIP_DATA = {
       id: "aug8", city: "sf", dow: "Sat 8/8", title: "Mom brunch 🔒 → Haight thrift crawl → Zuni",
       stops: [
         { id: "sf-mombrunch", name: "Brunch with host's mom", time: "AM", category: "friends", area: "TBD", notes: "Locked in — location TBD.", lat: null, lng: null, locked: true },
+        { id: "sf-paintedladies", name: "Painted Ladies — Alamo Square", time: "12:30 PM", category: "landmark", area: "Alamo Square", notes: "THE row of Victorians (710–720 Steiner St, 'Postcard Row') with the downtown skyline behind — the Full House shot. Alamo Square Park is a perfect picnic + photo stop right on your way from the Castro to the Haight (~10 min).", lat: 37.7761, lng: -122.4328 },
         { id: "sf-wasteland", name: "Wasteland", time: "1 PM", category: "thrift", area: "Haight", notes: "The big one — designer + vintage resale. The whole crawl is ~4 blocks.", lat: 37.7694, lng: -122.4506 },
         { id: "sf-decades", name: "Decades of Fashion", time: "2 PM", category: "thrift", area: "Haight", notes: "Museum-grade 1900s–80s. Closed Mon/Tue — Saturday is its day.", lat: 37.7695, lng: -122.4503 },
         { id: "sf-relic", name: "Relic Vintage", time: "2:30 PM", category: "thrift", area: "Haight", notes: "Curated 1920s–60s.", lat: 37.7694, lng: -122.4494 },
@@ -79,6 +81,7 @@ const TRIP_DATA = {
       stops: [
         { id: "sf-liguria", name: "Liguria Bakery — focaccia", time: "10 AM", category: "cafe", area: "North Beach", notes: "Cash only, focaccia ONLY, sells out by ~noon. Caffe Trieste espresso around the corner; City Lights + Vesuvio nearby.", lat: 37.8014, lng: -122.4090 },
         { id: "sf-coit", name: "Filbert Steps → Coit Tower", time: "11 AM", category: "sight", area: "North Beach", notes: "Climb up, come down to the Embarcadero.", lat: 37.8024, lng: -122.4058 },
+        { id: "sf-transamerica", name: "Transamerica Pyramid", time: "12 PM", category: "landmark", area: "Financial District", notes: "SF's iconic 1972 spire at the edge of North Beach — the redwood grove + redesigned plaza at its base are open to the public. Steps from City Lights & Molinari.", lat: 37.7952, lng: -122.4028 },
         { id: "sf-pier39", name: "Pier 39 sea lions + Musée Mécanique", time: "1 PM", category: "sight", area: "Wharf", notes: "Musée Mécanique (Pier 45) is free — antique arcade.", lat: 37.8087, lng: -122.4098 },
         { id: "sf-buenavista", name: "Buena Vista Cafe — Irish coffee", time: "3 PM", category: "food", area: "Wharf", notes: "The original US Irish coffee (1952). Boudin chowder bread bowl nearby if hungry; Ghirardelli sundae next door.", lat: 37.8064, lng: -122.4207 },
         { id: "sf-alcatraz", name: "ALCATRAZ NIGHT TOUR — Pier 33 (w/ Sydney)", time: "5:55 PM", category: "sight", area: "Embarcadero", notes: "Be at Pier 33 by 5:25pm. Book the EARLIEST 5:55 boat (back ~8:45pm) — you need time afterward to cross to Oakland for bags before the OAK flight. ~$60, official site only (alcatrazcitycruises.com) — sells out weeks out. COLD + windy: real jacket.", lat: 37.8067, lng: -122.4054, locked: true },
@@ -92,6 +95,8 @@ const TRIP_DATA = {
       id: "aug13", city: "la", dow: "Thu 8/13", title: "DTLA → The Grove → Guelaguetza group dinner",
       stops: [
         { id: "la-eggslut", name: "Eggslut — Grand Central Market", time: "9 AM", category: "food", area: "DTLA", notes: "Closes 2PM — it's breakfast, not lunch. Order the Slut + the Fairfax. Then wander GCM; GGET (ex-G&B) for the iced almond-mac latte.", lat: 34.0508, lng: -118.2489 },
+        { id: "la-bradbury", name: "Bradbury Building", time: "10:15 AM", category: "landmark", area: "DTLA", notes: "1893 landmark with a breathtaking sunlit wrought-iron atrium (Blade Runner, 500 Days of Summer) — directly across Broadway from Grand Central Market. Lobby is free to visit up to the first landing.", lat: 34.0505, lng: -118.2476 },
+        { id: "la-disneyhall", name: "Walt Disney Concert Hall", time: "11 AM", category: "landmark", area: "DTLA", notes: "Frank Gehry's rippling stainless-steel masterpiece (2003). Free self-guided exterior + the hidden rooftop garden. The Broad museum is right next door.", lat: 34.0553, lng: -118.2498 },
         { id: "la-grove", name: "The Grove", time: "12:30 PM", category: "sight", area: "Fairfax", notes: "Parking: 2 hrs free w/ validation. Canter's Deli 2 blocks up Fairfax for a pastrami snack.", lat: 34.0722, lng: -118.3576 },
         { id: "la-farmersmkt", name: "Original Farmers Market (1934)", time: "2 PM", category: "food", area: "Fairfax", notes: "100+ stalls next to the Grove: Du-par's pancakes, Bob's Coffee & Doughnuts, Loteria tacos, Pampas churrasco.", lat: 34.0721, lng: -118.3603 },
         { id: "la-guelaguetza", name: "Guelaguetza — GROUP DINNER (all 6)", time: "7:30 PM", category: "friends", area: "Koreatown", notes: "Hailey, Steven, Ana, Riley + Sydney. James Beard–winning Oaxacan: mole flights, 150+ mezcals, live mariachi. ~$25–40/pp. RESERVE on OpenTable now. Backup: Hae Jang Chon AYCE KBBQ.", lat: 34.0530, lng: -118.2946 },
@@ -165,6 +170,9 @@ const TRIP_DATA = {
     { id: "x-elrio", city: "sf", name: "El Rio", category: "nightlife", area: "Mission", notes: "Huge patio, diverse queer crowd. Sunday patio parties (lost to OSL this trip).", lat: 37.7470, lng: -122.4192 },
     { id: "x-oasis", city: "sf", name: "Oasis Arts", category: "nightlife", area: "SoMa", notes: "Reopened July 2026 as a queer arts nonprofit — ticketed shows, check sfoasis.com.", lat: 37.7714, lng: -122.4143 },
     { id: "x-warminghut", city: "sf", name: "Warming Hut", category: "cafe", area: "Presidio", notes: "Snack shack on Crissy Field.", lat: 37.8067, lng: -122.4730 },
+    { id: "x-cityhall", city: "sf", name: "SF City Hall", category: "landmark", area: "Civic Center", notes: "1915 Beaux-Arts dome — taller than the US Capitol's. Grand rotunda staircase inside; free to walk through on weekdays. On the way to/from Outside Lands transit.", lat: 37.7793, lng: -122.4193 },
+    { id: "x-gracecathedral", city: "sf", name: "Grace Cathedral", category: "landmark", area: "Nob Hill", notes: "Neo-Gothic cathedral atop Nob Hill — gilded Ghiberti 'Gates of Paradise' doors + a stone labyrinth. Right on the Powell–Hyde cable car line.", lat: 37.7915, lng: -122.4129 },
+    { id: "x-haaslilienthal", city: "sf", name: "Haas-Lilienthal House", category: "landmark", area: "Pacific Heights", notes: "Grand 1886 Queen Anne Victorian you can actually tour inside — the full painted-lady experience with period interiors. Near the Marina/Presidio day.", lat: 37.7936, lng: -122.4258 },
 
     /* LA */
     { id: "x-canters", city: "la", name: "Canter's Deli", category: "food", area: "Fairfax", notes: "Pastrami + black-and-white cookie since 1931. Sat 24 hrs.", lat: 34.0790, lng: -118.3614 },
@@ -178,5 +186,9 @@ const TRIP_DATA = {
     { id: "x-elmatador", city: "la", name: "El Matador State Beach (Malibu)", category: "beach", area: "Malibu (optional)", notes: "The prettiest LA-county beach — sea stacks + caves, golden-hour stunner. ~45 min up PCH. Tiny $8 lot fills by 9am. A great add-on if you want one more beach; sunset ~7:45pm.", lat: 34.0384, lng: -118.8746 },
     { id: "x-scopa", city: "la", name: "Scopa Italian Roots (Venice)", category: "food", area: "Venice", notes: "Group-of-6 runner-up to Great White — louder bar energy, Italian, serious cocktails. Resy, up to 8 online.", lat: 33.9912, lng: -118.4515 },
     { id: "x-lobstertrap", city: "la", name: "The Lobster Trap (Avalon)", category: "food", area: "Catalina", notes: "Walk-in local favorite on Catalina — boat-to-table seafood, lively casual.", lat: 33.3430, lng: -118.3280 },
+    { id: "x-broad", city: "la", name: "The Broad", category: "landmark", area: "DTLA", notes: "Contemporary art museum beside Disney Hall — the 'veil-and-vault' honeycomb facade. Free timed tickets; Kusama Infinity Mirror Room. Pairs with the Thursday DTLA morning.", lat: 34.0546, lng: -118.2503 },
+    { id: "x-unionstation", city: "la", name: "Union Station", category: "landmark", area: "DTLA", notes: "1939 Mission Moderne rail cathedral — soaring tiled waiting hall + garden patios. Cocktail at the Imperial Western bar inside.", lat: 34.0561, lng: -118.2365 },
+    { id: "x-getty", city: "la", name: "The Getty Center", category: "landmark", area: "Brentwood", notes: "Richard Meier's travertine hilltop campus — tram ride up, sculpture gardens, Van Goghs, skyline views. FREE (parking $25). A great westside half-day if you have one.", lat: 34.0780, lng: -118.4741 },
+    { id: "x-griffith", city: "la", name: "Griffith Observatory", category: "landmark", area: "Los Feliz", notes: "1935 Art Deco observatory — the classic LA skyline + Hollywood Sign view (Rebel Without a Cause, La La Land). Free; go at sunset.", lat: 34.1184, lng: -118.3004 },
   ],
 };
